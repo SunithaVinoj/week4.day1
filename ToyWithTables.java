@@ -95,10 +95,10 @@ public class ToyWithTables {
 			
 				
 			
-			for(String value:perSet)
+		/*	for(String value:perSet)
 			{
 				System.out.println("Percentage values are: " +value);
-			}
+			} */
 			
 			}
 
